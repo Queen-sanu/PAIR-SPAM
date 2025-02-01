@@ -16,7 +16,10 @@ WE ARE 𝐃𝐀𝐑𝐊 𝐓𝐄𝐀𝐌
 * `cd PAIR-SPAM`
 * `npm install`
 * `npm start`
-```
+## TESTED ON :
+
+* Termux*
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  
 ``(Tap To Redirect)``
