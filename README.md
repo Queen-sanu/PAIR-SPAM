@@ -2,9 +2,9 @@ WE ARE 𝐃𝐀𝐑𝐊 𝐓𝐄𝐀𝐌
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-### If there is an issue in this tool, report [here](https://api.whatsapp.com/send?phone=923435611415&text=𒁂𓄂❥𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼гՇ࿐/I_Picker/issues)
-
 <p style="color:purple"><b>Connect With Us:</b></p>
+
+### If there is an issue in this tool, report [here](https://api.whatsapp.com/send?phone=923435611415&text=𒁂𓄂❥𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼гՇ࿐/I_Picker/issues)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  
@@ -17,9 +17,7 @@ WE ARE 𝐃𝐀𝐑𝐊 𝐓𝐄𝐀𝐌
 * `npm install`
 * `npm start`
 ## TESTED ON :
-
-* Termux*
-
+* Termux
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  
 ``(Tap To Redirect)``
