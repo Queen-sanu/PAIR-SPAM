@@ -35,4 +35,4 @@ WE ARE 𝐃𝐀𝐑𝐊 𝐓𝐄𝐀𝐌
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+:+𒁂𓄂❥𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼гՇ࿐)](https://git.io/typing-svg)              
 |--------------------------------|
-| [![Owner](https://i.ibb.co/TLkwkYQ/temp-image.jpg)](https://github.com/sadiyamin/Alexa/) | [![MALIK ZAIN](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/ladla-malik/PAIR-SPAM)
+| [![Owner](https://i.ibb.co/PZyqvMsn/500.jpg)](https://github.com/sadiyamin/Alexa/) | [![Dark Team](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/ladla-malik/PAIR-SPAM)
