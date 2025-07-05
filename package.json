@@ -11,9 +11,9 @@
   "description": "",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "^6.5.0",
+    "@whiskeysockets/baileys": "^6.7.18",
     "clear-console": "^1.1.0",
-    "pino": "^8.16.2",
+    "pino": "^9.7.0",
     "qrcode-terminal": "^0.12.0"
   }
 }
