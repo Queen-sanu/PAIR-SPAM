@@ -67,16 +67,16 @@ async function KleeProject() {
 console.log(color + `Running... spam-pairing-wa
 =========================
  • SPAM-PAIR-CODE
- • BY DARK-TEAM
+ • BY RCD-TEAM
  • do not misuse 
 =========================
 ┏❐ 
 ┃ [ FOLLOW THE INSTRUCTIONS BELOW, TO SPAM ]
 ┃
-┃⭔ Target Number ( 92343xxxxxxx )
+┃⭔ Target Number ( 9474xxxxxxx )
 ┃⭔ how much spam ( 1-1000 )
 ┃
-┃ [ THIS TOOL CAN ONLY BE USED ON NUMBER +92 ]
+┃ [ THIS TOOL CAN ONLY BE USED ON NUMBER +94 ]
 ┗❐ 
 =========================` + xColor);
 
